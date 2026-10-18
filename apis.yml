@@ -48,7 +48,7 @@ modified: '2026-07-21'
 tags:
 - Company
 - Ticketing
-- Ridesharing
+- Ride Hailing
 - Mobility
 - Travel
 - Transportation
@@ -65,6 +65,7 @@ tags_raw:
 - Delivery
 - Bangladesh
 - Consumer
+- Ridesharing
 apis: []
 maintainers:
 - FN: Kin Lane
